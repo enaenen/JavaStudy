@@ -14,5 +14,4 @@ public class MoimTest{
 
         Assert.assertFalse(moim.isEnrollmentFull());
     }
-
 }
